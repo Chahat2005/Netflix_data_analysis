@@ -9,10 +9,15 @@ The dataset was cleaned, transformed, analyzed, and visualized to uncover meanin
 🛠 Tools & Technologies Used
 
 -Python 
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
+
 -Seaborn
+
 -Power BI 
 ***
 
